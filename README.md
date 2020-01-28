@@ -8,9 +8,9 @@ This couse will be conducted on Sunday, 9 February 2020 2:00pm - 5:00pm
 To begin the short course either use the binder link above (run Python in the cloud) or clone this respository to your local computer running Python 3.7 in anaconda.
 
 ### Contents
-- [Introduction](01 - Introduction/README.md)
-- [Airport Climatology](02 - Airport Climatology/README.md)
-- [Large Scale Climatology](03 - Large-scale Climatology/README.md)
+- [Introduction](../blob/master/01 - Introduction/README.md)
+- [Airport Climatology](../blob/master/02 - Airport Climatology/README.md)
+- [Large Scale Climatology](../blob/master/03 - Large-scale Climatology/README.md)
 
 Coordinators
 - Dr Joshua Soderholm: joshua.soderholm at bom.gov.au
