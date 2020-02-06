@@ -14,4 +14,4 @@ To begin the short course either use the binder link above (run Python in the cl
 
 Coordinators
 - Dr Joshua Soderholm: joshua.soderholm at bom.gov.au
-- Dr Valetin Louf: valentin.louf at bom.gov.au
+- Dr Valentin Louf: valentin.louf at bom.gov.au
