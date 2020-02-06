@@ -1,1 +1,1 @@
-Folder for Airports Climatology.
+The following tutorial explores the thunderstorm climatology at four airports across Eastern Australia.
