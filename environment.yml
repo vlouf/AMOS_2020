@@ -10,3 +10,4 @@ dependencies:
   - arm_pyart
   - netCDF4
   - cartopy
+  - h5py
